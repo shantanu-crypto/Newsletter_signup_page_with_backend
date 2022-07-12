@@ -52,9 +52,3 @@ app.post("/",function(req,res){
 app.listen(process.env.PORT || 3000,function(){
     console.log("Server started on port 3000");
 });
-
-// API Key
-// 19daa6e9fc7e797808030eae32b91eb1-us17
-
-// List ID
-// 76574ab263
